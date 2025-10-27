@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @InterCore-sys
 - 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on fsmobile
+- 👾 At the time of writing, I am creating Exodus-foundation
+
 
 
 <!---
